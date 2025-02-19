@@ -236,4 +236,4 @@ function CreateNew() {
   )
 // }
 
-export default CreateNew
+export default CreateNew;
