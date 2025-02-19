@@ -11,6 +11,7 @@ import { VideoDataContext } from '../../_context/VideoDataContext';
 import { Users, VideoData } from '@/configs/schema';
 import PlayerDialog from '../_components/PlayerDialog';
 import { useRouter } from 'next/router';
+import { useUser } from '@clerk/nextjs';
 import { UserDetailContext } from '@/app/_context/UserDetailContext';
 import { toast } from 'sonner';
 
