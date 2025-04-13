@@ -15,7 +15,7 @@ NexReel is an AI-driven short video generator that seamlessly combines cutting-e
 
 ## Overview
 
-NexReel automates the process of short video creation by leveraging AI for script generation, image synthesis, and video rendering. With built-in user authentication, a robust serverless database, and integrated AI APIs, the project provides an end-to-end solution for dynamic content generation. This README serves as both a technical guide and a documented report on the inner workings of NexReel.
+NexReel automates the process of short video creation by leveraging AI for script generation, image synthesis, and video rendering. With built-in user authentication, a robust serverless database, and integrated AI APIs, the project provides an end-to-end solution for dynamic content generation. This README serves as both a technical guide and a documented report on Nexreel's inner workings.
 
 ## Features
 
@@ -96,7 +96,7 @@ npm install replicate
 
 1. **Clone the Repository**:
 ```bash
-git clone https://github.com/yourusername/NexReel.git
+git clone https://github.com/therandomuser03/NexReel.git
 cd NexReel
 ```
 
@@ -168,7 +168,7 @@ These environment variables are crucial for:
 ```bash
 npm run dev
 ```
-Then, navigate to `http://localhost:3000` in your browser to see NexReel in action.
+Then, navigate to `http://localhost:3000` in your browser to see NexReel.
 
 ### Building for Production
 ```bash
@@ -185,7 +185,7 @@ npm start
 
 ## Contributing
 
-Contributions are welcomed! If you wish to enhance NexReel, please follow these steps:
+Contributions are welcome! If you wish to enhance NexReel, please follow these steps:
 
 1. **Fork the Repository**: Click the fork button on GitHub
 2. **Create a New Branch**:
